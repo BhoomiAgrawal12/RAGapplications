@@ -7,3 +7,4 @@ IPython
 llama-index-embeddings-gemini
 streamlit
 html2text
+llama-index-readers-web
