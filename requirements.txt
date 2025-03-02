@@ -8,3 +8,7 @@ llama-index-embeddings-gemini
 streamlit
 html2text
 llama-index-readers-web
+ipykernel
+nbconvert
+docx2txt
+#-e . //to download up the setup.py file content as well
